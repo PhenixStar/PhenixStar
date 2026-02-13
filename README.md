@@ -86,7 +86,7 @@ AI-powered penetration testing tool
 
 <div align="center">
 
-![snake gif](https://github.com/PhenixStar/PhenixStar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/PhenixStar/PhenixStar/output/ocean.gif)
 
 </div>
 
@@ -102,6 +102,6 @@ AI-powered penetration testing tool
 
 **Building at the intersection of AI, Mobile, and Security — from Mars 🚀**
 
-![Visitor Count](https://profile-counter.glitch.me/PhenixStar/count.svg)
+![Visitor Count](https://hits.dwyl.com/PhenixStar.svg)
 
 </div>
