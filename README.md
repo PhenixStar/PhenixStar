@@ -9,27 +9,25 @@
     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+since+2008+%E2%80%94+you+just+didn't+know+it+was+me;Shipping+code+across+3+continents+before+breakfast;The+commits+you+see+are+a+fraction+of+the+story;Where+AI+meets+infrastructure+meets+market+reality;Some+build+apps.+I+build+systems+that+build+nations." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%D9%85%D9%86+%D8%B9%D8%B1%D9%81+%D9%88%D8%B9%D8%B1%D9%81+%D8%A3%D9%86%D9%87+%D8%B9%D8%B1%D9%81+%D9%81%D8%B0%D8%A7%D9%83+%D8%B9%D8%A7%D9%84%D9%85+%D9%81%D8%A7%D8%AA%D8%A8%D8%B9%D9%88%D9%87;The+water+that+carries+the+ship+is+the+same+that+sinks+it;What+the+eye+doesn't+see%2C+the+code+already+handles;Three+continents.+One+operator.+Zero+signatures." alt="Typing SVG" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub><code>17 years of building. Most of it you'll never trace back to me.</code></sub>
+
+> *There are four kinds of people:*
+> *Those who know not and know not that they know not — avoid them.*
+> *Those who know not and know that they know not — teach them.*
+> *Those who know and know not that they know — awaken them.*
+> *Those who know and know that they know — follow them.*
+>
+> *I build for all four.*
+
 </div>
 
-<br>
-
-> *"The best architectures are invisible. The best operators are unnamed. The best code ships before anyone notices it was needed."*
-
-I've been writing production code since the web ran on jQuery and PHP was king. Hundreds of repositories. Thousands of commits. Across toolchains, platforms, and markets that most developers never touch simultaneously. Public repos are the tip — the real work runs in private infrastructure, closed networks, and systems that move capital.
-
-**I don't build to be seen. I build because something needs to exist.**
-
 ---
-
-## The Stack Nobody Asked About
 
 <div align="center">
 
@@ -59,28 +57,25 @@ I've been writing production code since the web ran on jQuery and PHP was king. 
 
 ---
 
-## What I Actually Do
-
 ```
-LAYER 0 — Infrastructure
-    Build and operate bare-metal AI servers, network infrastructure,
-    multi-site routing, and encrypted tunnels across Southeast Asia
-    and the Middle East. If it has a CLI, I've probably automated it.
+LAYER 0 — Iron
+    Bare metal. GPU clusters. Encrypted tunnels across
+    Southeast Asia and the Middle East. The foundation
+    no one sees, that everything depends on.
 
-LAYER 1 — AI Systems
-    Local LLM orchestration on GPU clusters. Multi-model delegation.
-    Voice cloning. OCR pipelines. Abliterated models for unrestricted
-    code generation. The kind of stack you can't rent from a cloud.
+LAYER 1 — Intelligence
+    Local LLM orchestration. Multi-model delegation.
+    Voice synthesis. Machine vision. Models that answer
+    questions others won't ask.
 
-LAYER 2 — Applications
-    AI-native development platforms. Browser extensions. Android tools.
-    Multi-agent gateways. Security research. The public repos are
-    samples — the production systems run 24/7 on private iron.
+LAYER 2 — Surface
+    What ships publicly. Platforms, extensions, agents,
+    tools. Samples from a much larger archive.
 
-LAYER 3 — Markets
-    Systems that touch finance in PH, MY, and UAE.
-    When capital moves at scale, someone built the pipes.
-    That someone prefers to remain unnamed.
+LAYER 3 — Current
+    Systems that move capital across PH, MY, and UAE.
+    الماء الذي يحمل السفينة هو نفسه الذي يغرقها
+    The water that carries the ship is the same that sinks it.
 ```
 
 ---
@@ -89,35 +84,35 @@ LAYER 3 — Markets
 
 <div align="center">
 
-| Project | What it really is |
-|---------|-------------------|
-| [**DrCode**](https://github.com/PhenixStar/DrCode) | Multi-agent AI dev platform. Kotlin. Not a toy. |
-| [**canvas-A-I-O**](https://github.com/PhenixStar/canvas-A-I-O) | AI canvas app. Next.js 16 + React 19. |
-| [**InspectIO**](https://github.com/PhenixStar/InspectIO) | 30+ web dev tools in one Chrome extension. |
-| [**CLIProxyAPI**](https://github.com/PhenixStar/CLIProxyAPI) | Universal AI CLI wrapper. Gemini, GPT, Claude. One interface. |
-| [**vibe-coding-pentester**](https://github.com/PhenixStar/vibe-coding-pentester) | AI-powered pentesting. Offensive security meets LLMs. |
-| [**cloudcli-dotfiles**](https://github.com/PhenixStar/cloudcli-dotfiles) | CCS + ClaudeKit config system. How I orchestrate 12 AI providers. |
-| [**Simple-wireless-ADB**](https://github.com/PhenixStar/Simple-wireless-ADB) | Wireless ADB for rooted Android. Small tool, massive reach. |
+| | |
+|---|---|
+| [**DrCode**](https://github.com/PhenixStar/DrCode) | Multi-agent AI platform. Kotlin. |
+| [**canvas-A-I-O**](https://github.com/PhenixStar/canvas-A-I-O) | AI canvas. Next.js 16 + React 19. |
+| [**InspectIO**](https://github.com/PhenixStar/InspectIO) | 30+ dev tools. One extension. |
+| [**CLIProxyAPI**](https://github.com/PhenixStar/CLIProxyAPI) | Universal AI wrapper. One interface. |
+| [**vibe-coding-pentester**](https://github.com/PhenixStar/vibe-coding-pentester) | Offensive security meets LLMs. |
+| [**cloudcli-dotfiles**](https://github.com/PhenixStar/cloudcli-dotfiles) | 12 AI providers. One config system. |
+| [**Simple-wireless-ADB**](https://github.com/PhenixStar/Simple-wireless-ADB) | Small tool. Massive reach. |
 
 </div>
 
 <details>
-<summary><b>The iceberg below the waterline</b></summary>
+<summary><code>ls -la /dev/null/iceberg</code></summary>
 <br>
 
-- Private infrastructure managing AI inference across 128GB of V100 VRAM
-- Multi-agent gateway routing conversations across 7 AI providers and 38 model fallbacks
-- Network automation spanning MikroTik, Cloudflare Tunnels, and multi-VLAN enterprise architecture
-- Voice cloning and TTS pipelines running on local hardware
-- Security tooling that doesn't belong on public GitHub
-- Financial systems integration across three sovereign markets
-- 34+ active projects. One operator.
+```
+drwx------  phenix  128GB   V100 VRAM active
+drwx------  phenix  38      model fallback chain
+drwx------  phenix  7       AI provider integrations
+drwx------  phenix  34+     active projects
+drwx------  phenix  3       sovereign market systems
+drwx------  phenix  1       operator
+-rw-------  phenix  0       signatures left behind
+```
 
 </details>
 
 ---
-
-## Activity
 
 <div align="center">
 
@@ -131,8 +126,6 @@ LAYER 3 — Markets
 
 ---
 
-## Contribution Graph
-
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/PhenixStar/PhenixStar/output/ocean.gif)
@@ -144,19 +137,20 @@ LAYER 3 — Markets
 <div align="center">
 
 [![Website](https://img.shields.io/badge/-nulled.ai-0d1117?style=flat-square&logo=vercel&logoColor=58A6FF)](https://nulled.ai)
-[![Email](https://img.shields.io/badge/-alaa@nulled.ai-0d1117?style=flat-square&logo=protonmail&logoColor=58A6FF)](mailto:alaa@nulled.ai)
+[![Email](https://img.shields.io/badge/-contact-0d1117?style=flat-square&logo=protonmail&logoColor=58A6FF)](mailto:alaa@nulled.ai)
 [![X](https://img.shields.io/badge/-@PhenixStar-0d1117?style=flat-square&logo=x&logoColor=58A6FF)](https://x.com/PhenixStar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/phenixstar)
 
 <br>
 
 ```
-                    The bird that survives the fire is a phoenix.
+        العنقاء لا تحتاج أن تُعرّف نفسها
+        The phoenix does not need to introduce itself.
 
-                    The one that started it — that's me.
+                    est. 2008 — ∞
 ```
 
-<sub>Building since 2008. Shipping across PH, MY, UAE. Most of it unsigned.</sub>
+<sub>PH · MY · UAE</sub>
 
 ![Visitors](https://komarev.com/ghpvc/?username=PhenixStar&style=flat-square&color=1f6feb&label=watchers)
 
