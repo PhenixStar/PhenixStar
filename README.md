@@ -9,7 +9,7 @@
     ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%D9%85%D9%86+%D8%B9%D8%B1%D9%81+%D9%88%D8%B9%D8%B1%D9%81+%D8%A3%D9%86%D9%87+%D8%B9%D8%B1%D9%81+%D9%81%D8%B0%D8%A7%D9%83+%D8%B9%D8%A7%D9%84%D9%85+%D9%81%D8%A7%D8%AA%D8%A8%D8%B9%D9%88%D9%87;The+water+that+carries+the+ship+is+the+same+that+sinks+it;What+the+eye+doesn't+see%2C+the+code+already+handles;Three+continents.+One+operator.+Zero+signatures." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%D9%85%D9%86+%D8%B9%D8%B1%D9%81+%D9%88%D8%B9%D8%B1%D9%81+%D8%A3%D9%86%D9%87+%D8%B9%D8%B1%D9%81+%D9%81%D8%B0%D8%A7%D9%83+%D8%B9%D8%A7%D9%84%D9%85+%D9%81%D8%A7%D8%AA%D8%A8%D8%B9%D9%88%D9%87;The+water+that+carries+the+ship+is+the+same+that+sinks+it;What+the+eye+doesn't+see%2C+the+code+already+handles;Three+continents.+One+operator.+Zero+signatures." alt="Typing SVG" />
 
 </div>
 
@@ -86,12 +86,13 @@ LAYER 3 — Current
 
 | | |
 |---|---|
-| [**DrCode**](https://github.com/PhenixStar/DrCode) | Multi-agent AI platform. Kotlin. |
+| [**Terminlogy**](https://github.com/PhenixStar/Terminlogy) | Sleek AI-powered terminal. Cross-platform. Go. |
+| [**M1-firmware-plus**](https://github.com/PhenixStar/M1-firmware-plus) | STM32H573 firmware. Dual boot, Flipper .ir loader, bank-swap recovery. |
+| [**M1-app-sdk**](https://github.com/PhenixStar/M1-app-sdk) | SDK for .m1app apps — HTTP client API + 4 homelab apps. C. |
 | [**canvas-A-I-O**](https://github.com/PhenixStar/canvas-A-I-O) | AI canvas. Next.js 16 + React 19. |
-| [**InspectIO**](https://github.com/PhenixStar/InspectIO) | 30+ dev tools. One extension. |
-| [**CLIProxyAPI**](https://github.com/PhenixStar/CLIProxyAPI) | Universal AI wrapper. One interface. |
-| [**vibe-coding-pentester**](https://github.com/PhenixStar/vibe-coding-pentester) | Offensive security meets LLMs. |
-| [**cloudcli-dotfiles**](https://github.com/PhenixStar/cloudcli-dotfiles) | 12 AI providers. One config system. |
+| [**openclaw-skills-collection**](https://github.com/PhenixStar/openclaw-skills-collection) | Diagnostics, error-fixing, skill recommendation for OpenClaw. |
+| [**coding-plan-assistant**](https://github.com/PhenixStar/coding-plan-assistant) | CLI assistant for GLM and MiniMax coding platforms. |
+| [**waveterm-apps**](https://github.com/PhenixStar/waveterm-apps) | Wave Terminal WaveApps — fleet dashboard, topology, Docker. |
 | [**Simple-wireless-ADB**](https://github.com/PhenixStar/Simple-wireless-ADB) | Small tool. Massive reach. |
 
 </div>
@@ -108,6 +109,13 @@ drwx------  phenix  34+     active projects
 drwx------  phenix  3       sovereign market systems
 drwx------  phenix  1       operator
 -rw-------  phenix  0       signatures left behind
+
+# below the waterline (private archive)
+drwx------  phenix  DrCode                multi-agent AI dev platform
+drwx------  phenix  InspectIO             30+ dev tools, one extension
+drwx------  phenix  CLIProxyAPI           universal AI wrapper, one interface
+drwx------  phenix  vibe-coding-pentester offensive security meets LLMs
+drwx------  phenix  cloudcli-dotfiles     12 AI providers, one config system
 ```
 
 </details>
@@ -116,11 +124,7 @@ drwx------  phenix  1       operator
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=PhenixStar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&bg_color=0d1117)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhenixStar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![](https://github-profile-trophy.vercel.app/?username=PhenixStar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+![](https://streak-stats.demolab.com/?user=PhenixStar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
