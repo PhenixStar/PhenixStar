@@ -47,8 +47,7 @@ LAYER 2 — SURFACE
 
 LAYER 3 — CURRENT
     Systems that run businesses while their owners sleep.
-    الماء الذي يحمل السفينة هو نفسه الذي يغرقها
-    The water that carries the ship is the same that sinks it.
+    Autonomy as a service. Leverage that compounds in the dark.
 ```
 
 ---
